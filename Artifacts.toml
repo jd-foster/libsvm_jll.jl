@@ -1,0 +1,8 @@
+[[libsvm]]
+arch = "x86_64"
+git-tree-sha1 = "95e82255cf0fb582015291d6290560b8cbde6e94"
+os = "windows"
+
+    [[libsvm.download]]
+    sha256 = "4fef7ddd8623f2cb22eb4f1ad7b375e70997f3a671f576a83bcc1d18890ebd82"
+    url = "https://github.com/jd-foster/libsvm_jll.jl/releases/download/libsvm-v3.25.0+1/libsvm.v3.25.0.x86_64-w64-mingw32.tar.gz"
